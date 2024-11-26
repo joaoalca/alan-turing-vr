@@ -18,12 +18,13 @@ Entretenimento em Realidade Virtual (RV), permitindo que os usuários interajam 
 O usuário acessa um ambiente de realidade virtual que simula locais significativos da vida de Turing, como seu escritório em Bletchley Park durante a Segunda Guerra Mundial. Nesse cenário, o usuário pode abordar o avatar de Alan Turing e iniciar uma conversa. O ambiente interativo permite que o usuário faça perguntas sobre sua vida pessoal, desafios enfrentados, avanços na criptografia e no desenvolvimento da computação. A experiência é desenhada para ser intuitiva e envolvente, incentivando a exploração e o aprendizado através da interação direta.
 
 ## Justificativa da escolha da aparência:
-A aparência do avatar foi cuidadosamente escolhida para refletir fielmente o contexto histórico e a identidade de Alan Turing, aumentando a autenticidade e a imersão da experiência.
-	•	Idade: O avatar representa Turing em seus últimos anos, por volta dos 41 anos, após ter vivenciado os principais eventos de sua vida. Isso permite que ele discuta toda a sua trajetória com o usuário.
-	•	Gênero: Masculino, alinhado à identidade de Alan Turing.
-	•	Tom de pele: Caucasiano, representando sua ascendência britânica.
-	•	Vestuário: O avatar veste trajes típicos da década de 1950, como um terno sob medida, camisa branca e gravata discreta. O vestuário formal reflete a moda da época e ajuda a situar temporalmente o usuário, além de transmitir a profissionalidade de Turing como matemático e acadêmico.
-	•	Expressões faciais: As expressões do avatar são sutis e refletivas, capturando a natureza contemplativa de Turing. Ele exibe um olhar atento e curioso, com sorrisos leves ao discutir tópicos de interesse. Ao abordar assuntos mais pessoais ou dificuldades enfrentadas, suas expressões tornam-se mais sérias, transmitindo autenticidade emocional.
+A aparência escolhida para o avatar virtual baseado na imagem reflete características associadas a Alan Turing, considerando o contexto histórico e o impacto de sua vida:
 
-Essa atenção aos detalhes na aparência garante que o avatar não apenas se assemelhe fisicamente a Alan Turing, mas também que sua presença virtual seja coerente com o contexto histórico e pessoal, enriquecendo a experiência do usuário.
+Idade e Gênero: O avatar deve ser um homem jovem-adulto, na faixa dos 30 a 40 anos, que corresponde ao período em que Alan Turing foi mais ativo em suas contribuições para a ciência e a matemática.
+
+Tom de Pele e Expressão Facial: A pele clara e as expressões suaves transmitem uma aparência autêntica, reforçando o perfil de um intelectual que tinha uma postura introspectiva, mas também acessível. 
+
+Vestuário: O uso de traje formal, como terno e gravata, deve refletir a moda da época e reforça a imagem de um cientista e matemático de destaque, adequado ao ambiente acadêmico e profissional em que Alan Turing se destacou.
+
+Contexto Geral: A aparência transmite um equilíbrio entre seriedade e acessibilidade, essencial para um avatar que busca representar conhecimento técnico profundo de maneira agradável e educativa. Isso cria uma ponte entre o legado histórico de Turing e o engajamento moderno com a tecnologia e a ciência.
 
