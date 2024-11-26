@@ -11,7 +11,9 @@ Entretenimento em Realidade Virtual (RV), permitindo que os usuários interajam 
 ## Descrição detalhada do humano virtual:
 
 Nome: Alan Turing
+
 Personalidade: O avatar incorpora a personalidade conhecida de Alan Turing: brilhante, introspectivo e apaixonado por matemática e criptografia. Ele é educado, um pouco reservado, mas demonstra entusiasmo ao discutir tópicos de seu interesse. Sua personalidade também reflete a resiliência diante das dificuldades pessoais e profissionais que enfrentou.
+
 Função do avatar: Servir como um interlocutor virtual que permite aos usuários explorar e compreender melhor a vida, o trabalho e o impacto de Alan Turing na ciência e na sociedade. Ele responde a perguntas, compartilha histórias e oferece insights sobre seus pensamentos e experiências.
 
 ## Cenário de uso prático:
