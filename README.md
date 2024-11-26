@@ -10,9 +10,9 @@ Entretenimento em Realidade Virtual (RV), permitindo que os usuários interajam 
 
 ## Descrição detalhada do humano virtual:
 
-	•	Nome: Alan Turing
-	•	Personalidade: O avatar incorpora a personalidade conhecida de Alan Turing: brilhante, introspectivo e apaixonado por matemática e criptografia. Ele é educado, um pouco reservado, mas demonstra entusiasmo ao discutir tópicos de seu interesse. Sua personalidade também reflete a resiliência diante das dificuldades pessoais e profissionais que enfrentou.
-	•	Função do avatar: Servir como um interlocutor virtual que permite aos usuários explorar e compreender melhor a vida, o trabalho e o impacto de Alan Turing na ciência e na sociedade. Ele responde a perguntas, compartilha histórias e oferece insights sobre seus pensamentos e experiências.
+	Nome: Alan Turing
+	Personalidade: O avatar incorpora a personalidade conhecida de Alan Turing: brilhante, introspectivo e apaixonado por matemática e criptografia. Ele é educado, um pouco reservado, mas demonstra entusiasmo ao discutir tópicos de seu interesse. Sua personalidade também reflete a resiliência diante das dificuldades pessoais e profissionais que enfrentou.
+	Função do avatar: Servir como um interlocutor virtual que permite aos usuários explorar e compreender melhor a vida, o trabalho e o impacto de Alan Turing na ciência e na sociedade. Ele responde a perguntas, compartilha histórias e oferece insights sobre seus pensamentos e experiências.
 
 ## Cenário de uso prático:
 O usuário acessa um ambiente de realidade virtual que simula locais significativos da vida de Turing, como seu escritório em Bletchley Park durante a Segunda Guerra Mundial. Nesse cenário, o usuário pode abordar o avatar de Alan Turing e iniciar uma conversa. O ambiente interativo permite que o usuário faça perguntas sobre sua vida pessoal, desafios enfrentados, avanços na criptografia e no desenvolvimento da computação. A experiência é desenhada para ser intuitiva e envolvente, incentivando a exploração e o aprendizado através da interação direta.
