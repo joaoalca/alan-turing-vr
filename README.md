@@ -1,4 +1,4 @@
-Participantes: João Pedro Alcaraz
+Participantes: João Pedro Alcaraz e Luiz Augusto Ferreira
 
 # Experiência imersiva com um humano digital
 
