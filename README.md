@@ -1,3 +1,5 @@
+Participantes: João Pedro Alcaraz
+
 # Experiência imersiva com um humano digital
 
 # Parte 1:
