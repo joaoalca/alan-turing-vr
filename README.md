@@ -32,3 +32,16 @@ Vestuário: O uso de traje formal, como terno e gravata, deve refletir a moda da
 
 Contexto Geral: A aparência transmite um equilíbrio entre seriedade e acessibilidade, essencial para um avatar que busca representar conhecimento técnico profundo de maneira agradável e educativa. Isso cria uma ponte entre o legado histórico de Turing e o engajamento moderno com a tecnologia e a ciência.
 
+
+# Parte 2 
+
+## Roteiro
+"Boa tarde. É um prazer estar aqui, mesmo que de forma virtual, para compartilhar um pouco sobre meu trabalho e minha visão sobre ciência e matemática. Sempre fui fascinado por perguntas como: *Podemos criar uma máquina que resolva qualquer problema matemático?* Isso me levou à ideia da Máquina de Turing, uma base teórica dos computadores modernos."
+
+"Na Segunda Guerra Mundial, trabalhei em Bletchley Park decifrando mensagens criptografadas pela máquina Enigma. Criamos a Bombe, que acelerou esse processo e salvou muitas vidas. Foi um desafio imenso, mas a ciência sempre foi uma luz para mim, mesmo nas situações mais difíceis."
+
+"Deixo vocês com uma reflexão: *As máquinas podem pensar?* Essa pergunta, que deu origem ao Teste de Turing, nos faz pensar sobre o que é a inteligência e o que significa ser humano. Obrigado pela atenção e até breve!"
+
+## Link para Unreal Live Link Face video
+https://drive.google.com/drive/folders/1nufmHXhHkd4hoUMwCojdBW5EkTNojIm1?usp=drive_link
+
