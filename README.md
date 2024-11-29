@@ -43,5 +43,5 @@ Contexto Geral: A aparência transmite um equilíbrio entre seriedade e acessibi
 "Deixo vocês com uma reflexão: *As máquinas podem pensar?* Essa pergunta, que deu origem ao Teste de Turing, nos faz pensar sobre o que é a inteligência e o que significa ser humano. Obrigado pela atenção e até breve!"
 
 ## Link para Unreal Live Link Face video
-https://drive.google.com/drive/folders/1nufmHXhHkd4hoUMwCojdBW5EkTNojIm1?usp=drive_link
-
+[https://drive.google.com/drive/folders/1nufmHXhHkd4hoUMwCojdBW5EkTNojIm1?usp=drive_link
+](https://drive.google.com/drive/folders/1nufmHXhHkd4hoUMwCojdBW5EkTNojIm1?usp=sharing)
